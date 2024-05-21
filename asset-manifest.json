@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/atlasswings/static/css/main.f855e6bc.css",
+    "main.js": "/atlasswings/static/js/main.10fa85d1.js",
+    "static/js/453.bfcfefee.chunk.js": "/atlasswings/static/js/453.bfcfefee.chunk.js",
+    "static/media/logo.svg": "/atlasswings/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/atlasswings/index.html",
+    "main.f855e6bc.css.map": "/atlasswings/static/css/main.f855e6bc.css.map",
+    "main.10fa85d1.js.map": "/atlasswings/static/js/main.10fa85d1.js.map",
+    "453.bfcfefee.chunk.js.map": "/atlasswings/static/js/453.bfcfefee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.10fa85d1.js"
+  ]
+}
